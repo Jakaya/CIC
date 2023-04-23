@@ -1,3 +1,3 @@
 # CIC
 Incorporation documents
-![Community Interest Statement](Community Interest Statement - Activities & Related Benefit (CIC-36).jpg)
+![Community Interest Statement](https://github.com/Jakaya/CIC/blob/main/Community%20Interest%20Statement%20-%20Activities%20%26%20Related%20Benefit%20(CIC-36).jpg)
