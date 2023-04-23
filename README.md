@@ -1,2 +1,2 @@
-# cic
+# CIC
 Incorporation documents
