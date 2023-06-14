@@ -1,5 +1,4 @@
-# CIC
-Incorporation documents
+# CIC Incorporation documents
 
 [Social Enterprise UK membership](https://seuk.my.site.com/directory/s/detail/0012I00002iNjlXQAS)
 
