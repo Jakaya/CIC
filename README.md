@@ -1,10 +1,6 @@
 # CIC
 Incorporation documents
 
-["What the hell are you doing here?"](https://youtu.be/NT7uHsjGuwg)
-
-["We're off to a good start, play it cool"](https://youtu.be/BHIo6qwJarI)
-
 [Social Enterprise UK membership](https://seuk.my.site.com/directory/s/detail/0012I00002iNjlXQAS)
 
 ![Community Interest Statement](https://github.com/Jakaya/CIC/blob/main/Community%20Interest%20Statement%20-%20Activities%20%26%20Related%20Benefit%20(CIC-36).jpg)
